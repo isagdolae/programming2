@@ -2,8 +2,8 @@
 
 int main() 
 {
-	printf("Hello, Array! I love ou! !");
+	printf("Hello, Array! I love you! !");
 
 	return 0;
 
-} 
+}			
